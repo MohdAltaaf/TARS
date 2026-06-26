@@ -7,6 +7,8 @@ So originally TARS has 4 segment as you should be able to see in the images belo
 - So im Simplifying TARS a LOT (Upgrades incoming in future for sure), like only having 3 segments (combining the middle two segments) and having all the components in it, so that when the motors try to rotate the left or right segment, they are rotated easily, also while TARS was autonomous my version would be running via remote control from a phone (with bluetooth or wifi connectivity).
 - I thought it would be cool to have a PID controller for its balancing so theres that too, I deliberately placed the accelerometer at the bottom of the middle section as **velocity = angular velocity* radius from point of rotation** .
 - thus the reading of accelrometer would be the Least amplified when its closest to the point of rotation i.e. the ground.
+- <img width="1317" height="756" alt="image" src="https://github.com/user-attachments/assets/2660f007-1786-45b4-8056-6474e2a6bc7f" />
+
 ## What will be used : 
 - I would be using foam sheets for the body so that its all lighweight and easy to make too, I dont have a 3D printer ( that would be sooo convinient omg) 
 - two metal gear Servos.
@@ -17,6 +19,8 @@ So originally TARS has 4 segment as you should be able to see in the images belo
 - Wiring Obviously
 - A soldering kit would be a blessing. 
 - 5V buck convertor
+- <img width="1156" height="730" alt="image" src="https://github.com/user-attachments/assets/ab70631d-798c-4098-8aa0-84b4777f96bc" />
+
 ## The challenges :
 What I feel is that this project is more mechanically challenged that it is in terms of coding and electronics.
 TARS had a lot of ways to traverse, it would either start rolling by becoming sort of a wheel, or would have a pull itself forward by first lifting the outermost segments then placing them forward and then pulling them back.
