@@ -22,4 +22,19 @@
 
 ## 1 July 2026:
 - Submitted for re-review after making journal.md
+## 2 July 2026:
+- GOT REGECTED 😭😭
+- Reviewer said the 3d model is lacking mounting spaces for electronics and i need a circuit diagram too.
+## 3 July 2026:(2 hours)
+- Started working on making the 3d model better. (2 hour)
+- <img width="1599" height="805" alt="image" src="https://github.com/user-attachments/assets/8725655a-e604-4aaa-ad32-33a2be2ccbe0" />
+- Got eepy went to sleep.
+## 4 July 2026:(4 hours)
+- Got started with circuit design.
+- Learnt about how and why to wire things up.
+- Finalized the circuit.(3 horus)
+- https://wokwi.com/projects/468617376230200321
+- <img width="1528" height="827" alt="image" src="https://github.com/user-attachments/assets/bf097854-ee18-4eb3-a28a-e96c73417c98" />
+-didnt write the code obv.
+
   
