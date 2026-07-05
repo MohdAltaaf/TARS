@@ -33,4 +33,4 @@ With that in rest position to be stable the segments should either be forward or
 I found that pretty elegant. Although **I DO plan to fully recreate TARS with Raspberry Pi and a custom AI agent and make it fully autonomous**, It would have to wait until i first make this proof of concept.
 ### Thank you for reading, Support me if you too find TARS cool and would like to help me start.
 ### Peace OUT ✌
-### Link for the Model : https://www.tinkercad.com/things/b0tT2da0mQ2-exquisite-uusam
+
