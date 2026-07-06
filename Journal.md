@@ -35,6 +35,21 @@
 - Finalized the circuit.(3 horus)
 - https://wokwi.com/projects/468617376230200321
 - <img width="1528" height="827" alt="image" src="https://github.com/user-attachments/assets/bf097854-ee18-4eb3-a28a-e96c73417c98" />
--didnt write the code obv.
+## 5 July 2026: 
+- Welp Got regected lol. Reviewer said the model is vague about what goes where and there is no code.
+- Welp got the code structure done today.( 30 mins)
+## 6 July 2026: 
+- Got to work on the model , man onshape is toughh but its fun too like i can see it allows to get much advanced things done in it, took thier beginner course.
+- Added cavities and slot for the components while also making space for wiring to go through.
+- <img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/9bf6302d-217f-4f6a-8879-0d55605313a7" />
+- <img width="1920" height="886" alt="image" src="https://github.com/user-attachments/assets/a07faded-e596-4371-a3e5-7e862ba97081" />
+- added spaces for servo's horns to go in and get screwed into to get a firm hold of the legs.
+- <img width="974" height="652" alt="image" src="https://github.com/user-attachments/assets/b7b7033d-6e0f-45bf-925a-ede5022d1997" />
+- <img width="1053" height="608" alt="image" src="https://github.com/user-attachments/assets/5c8278a5-6c95-4a55-aaf7-ef0e892d4ce0" />
+- yeah so going to send it for rereview, lets hope im not missing anything.
+
+
+
+
 
   
