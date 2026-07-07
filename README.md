@@ -15,7 +15,7 @@ So originally TARS has 4 segment as you should be able to see in the images belo
 - an Accelerometer
 - An Arduino nano 
 - two 18650 li-ion batteries
-- two Oled Screens for basic prewritten dialogues and emotes.
+- 2.4' TFT LCD display
 - Wiring Obviously
 - A soldering kit would be a blessing. 
 - 5V buck convertor
